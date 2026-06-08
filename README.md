@@ -18,6 +18,8 @@ This project analyzes retail sales data to identify business trends, product per
 
 **Dataset Used:** Superstore Sales Dataset
 
+https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
+
 The dataset contains information related to:
 
 * Orders
